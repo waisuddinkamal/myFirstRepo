@@ -1,0 +1,165 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-20T04:43:36.425Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2101555000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.beforHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Create new user account in Test Environment",
+        "description": "",
+        "id": "register-new-user;create-new-user-account-in-test-environment",
+        "after": [
+          {
+            "result": {
+              "duration": 156403800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 27455900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on Retail website",
+            "match": {
+              "location": "stepDefinitions.LoginStepDef.user_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 52032500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user click on Myaccount",
+            "match": {
+              "location": "stepDefinitions.LoginStepDef.user_click_on_Myaccount()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 764993600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user click on Register",
+            "match": {
+              "location": "stepDefinitions.RegisterStepDefinition.user_click_on_register()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 498937400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user fill registration form with below information",
+            "match": {
+              "location": "stepDefinitions.RegisterStepDefinition.user_fill_registration_form_with_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "firstName",
+                  "lastName",
+                  "email",
+                  "telephone",
+                  "password",
+                  "passwordConfirm",
+                  "subscribe"
+                ]
+              },
+              {
+                "cells": [
+                  "alex",
+                  "conor",
+                  "alex121212@gmail.com",
+                  "2021011122",
+                  "WrongPass",
+                  "WrongPass",
+                  "yes"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 79992800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user agree to privacy and policy",
+            "match": {
+              "location": "stepDefinitions.RegisterStepDefinition.user_agree_to_privacy_and_policy()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 354467800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user click on continue button",
+            "match": {
+              "location": "stepDefinitions.RegisterStepDefinition.user_click_on_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 158836700,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user should see successful message \u0027Your Account Has Been Created!\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Your Account Has Been Created!\u0027",
+                  "offset": 35
+                }
+              ],
+              "location": "stepDefinitions.RegisterStepDefinition.user_should_see_successful_message(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@RegisterTest"
+          }
+        ]
+      }
+    ],
+    "name": "Register new user",
+    "description": "",
+    "id": "register-new-user",
+    "keyword": "Feature",
+    "uri": "classpath:features/retailHome.feature",
+    "tags": []
+  }
+]
