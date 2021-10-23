@@ -1,99 +1,49 @@
-2021-10-19 14:16:45,697 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 14:16:54,091 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 14:17:33,964 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 14:17:34,075 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 14:17:34,375 - logger_file -INFO - User Able Click on Login Option
-2021-10-19 14:17:34,649 - logger_file -INFO - User Enter eagles@tekschool.usAnd Passwordeagles
-2021-10-19 14:17:35,046 - logger_file -INFO - User be able click on Login button
-2021-10-19 14:17:35,108 - logger_file -INFO - User sould login in to MyAccount dashboard
-2021-10-19 15:14:26,823 - logger_file -INFO - ScenarioTest Case Started
-2021-10-19 15:14:30,592 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 15:14:36,225 - logger_file -INFO - ScenarioTest Case PASSED
-2021-10-19 15:14:36,426 - logger_file -INFO - ScenarioRetail website Login test Started
-2021-10-19 15:14:38,694 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 15:14:38,760 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 15:14:39,036 - logger_file -INFO - User Able Click on Login Option
-2021-10-19 15:14:39,230 - logger_file -INFO - User Enter eagles@tekschool.usAnd Passwordeagles
-2021-10-19 15:14:39,761 - logger_file -INFO - User be able click on Login button
-2021-10-19 15:14:39,804 - logger_file -INFO - User sould login in to MyAccount dashboard
-2021-10-19 15:14:39,804 - logger_file -INFO - ScenarioRetail website Login test PASSED
-2021-10-19 15:28:21,732 - logger_file -INFO - ScenarioTest Case Started
-2021-10-19 15:28:24,526 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 15:28:30,114 - logger_file -INFO - ScenarioTest Case PASSED
-2021-10-19 15:28:30,294 - logger_file -INFO - ScenarioRetail website Login test Started
-2021-10-19 15:28:32,109 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 15:28:32,155 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 15:28:32,949 - logger_file -INFO - User Able Click on Login Option
-2021-10-19 15:28:33,078 - logger_file -INFO - User Enter eagles@tekschool.usAnd Passwordeagles
-2021-10-19 15:28:33,745 - logger_file -INFO - User be able click on Login button
-2021-10-19 15:28:33,937 - logger_file -INFO - User sould login in to MyAccount dashboard
-2021-10-19 15:28:34,059 - logger_file -INFO - ScenarioRetail website Login test PASSED
-2021-10-19 15:29:43,037 - logger_file -INFO - ScenarioTest Case Started
-2021-10-19 15:29:47,754 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 15:29:53,941 - logger_file -INFO - ScenarioTest Case PASSED
-2021-10-19 15:29:54,123 - logger_file -INFO - ScenarioRetail website Login test Started
-2021-10-19 15:29:55,911 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 15:29:55,983 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 15:29:56,209 - logger_file -INFO - User Able Click on Login Option
-2021-10-19 15:29:56,408 - logger_file -INFO - User Enter eagles@tekschool.usAnd Passwordeagles
-2021-10-19 15:29:57,150 - logger_file -INFO - User be able click on Login button
-2021-10-19 15:29:57,190 - logger_file -INFO - User sould login in to MyAccount dashboard
-2021-10-19 15:29:57,364 - logger_file -INFO - ScenarioRetail website Login test PASSED
-2021-10-19 16:34:26,057 - logger_file -INFO - ScenarioTest Case Started
-2021-10-19 16:34:30,340 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 16:34:36,005 - logger_file -INFO - ScenarioTest Case PASSED
-2021-10-19 16:34:36,294 - logger_file -INFO - ScenarioRetail website Login test Started
-2021-10-19 16:34:38,807 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 16:34:38,908 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 16:34:39,231 - logger_file -INFO - User Able Click on Login Option
-2021-10-19 16:34:39,523 - logger_file -INFO - User Enter eagles@tekschool.usAnd Passwordeagles
-2021-10-19 16:34:40,830 - logger_file -INFO - User be able click on Login button
-2021-10-19 16:34:40,890 - logger_file -INFO - User sould login in to MyAccount dashboard
-2021-10-19 16:34:41,129 - logger_file -INFO - ScenarioRetail website Login test PASSED
-2021-10-19 16:56:02,137 - logger_file -INFO - ScenarioRetail website register test Started
-2021-10-19 16:56:05,551 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 16:56:14,904 - logger_file -INFO - ScenarioRetail website register test FAILED
-2021-10-19 20:22:58,499 - logger_file -INFO - ScenarioCreate new user account in Test Environment Started
-2021-10-19 20:23:02,241 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 20:23:02,300 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 20:23:02,709 - logger_file -INFO - User clocked on Register
-2021-10-19 20:23:03,041 - logger_file -INFO - ScenarioCreate new user account in Test Environment FAILED
-2021-10-19 20:27:52,769 - logger_file -INFO - ScenarioCreate new user account in Test Environment Started
-2021-10-19 20:27:59,746 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 20:27:59,811 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 20:28:01,295 - logger_file -INFO - User clocked on Register
-2021-10-19 20:28:01,580 - logger_file -INFO - ScenarioCreate new user account in Test Environment FAILED
-2021-10-19 20:29:36,067 - logger_file -INFO - ScenarioCreate new user account in Test Environment Started
-2021-10-19 20:29:38,895 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 20:29:38,971 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 20:29:39,482 - logger_file -INFO - User clocked on Register
-2021-10-19 20:29:39,863 - logger_file -INFO - ScenarioCreate new user account in Test Environment FAILED
-2021-10-19 20:38:02,976 - logger_file -INFO - ScenarioCreate new user account in Test Environment Started
-2021-10-19 20:38:05,916 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 20:38:06,004 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 20:38:06,642 - logger_file -INFO - User clocked on Register
-2021-10-19 20:38:06,978 - logger_file -INFO - ScenarioCreate new user account in Test Environment FAILED
-2021-10-19 21:35:35,316 - logger_file -INFO - ScenarioCreate new user account in Test Environment Started
-2021-10-19 21:35:39,106 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 21:35:39,164 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 21:35:39,634 - logger_file -INFO - User clocked on Register
-2021-10-19 21:35:39,914 - logger_file -INFO - ScenarioCreate new user account in Test Environment FAILED
-2021-10-19 21:36:00,896 - logger_file -INFO - ScenarioCreate new user account in Test Environment Started
-2021-10-19 21:36:03,411 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 21:36:07,255 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 21:36:07,790 - logger_file -INFO - User clocked on Register
-2021-10-19 21:36:08,049 - logger_file -INFO - ScenarioCreate new user account in Test Environment FAILED
-2021-10-19 21:41:24,748 - logger_file -INFO - ScenarioCreate new user account in Test Environment Started
-2021-10-19 21:41:26,805 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 21:41:26,856 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 21:41:27,419 - logger_file -INFO - User clocked on Register
-2021-10-19 21:41:27,881 - logger_file -INFO - ScenarioCreate new user account in Test Environment FAILED
-2021-10-19 21:43:36,531 - logger_file -INFO - ScenarioCreate new user account in Test Environment Started
-2021-10-19 21:43:38,595 - logger_file -INFO - Expected Title is much with Actual Title
-2021-10-19 21:43:38,648 - logger_file -INFO - User Able Click On MyAccount
-2021-10-19 21:43:39,232 - logger_file -INFO - User clocked on Register
-2021-10-19 21:43:39,758 - logger_file -INFO - user enter personal information[{firstName=alex, lastName=conor, email=alex121212@gmail.com, telephone=2021011122, password=WrongPass, passwordConfirm=WrongPass, subscribe=yes}]
-2021-10-19 21:43:39,993 - logger_file -INFO - user clicked on privacy policy checkbox
-2021-10-19 21:43:40,348 - logger_file -INFO - user cliked on continue button
-2021-10-19 21:43:40,376 - logger_file -INFO - user sould see succeful massgae!
-2021-10-19 21:43:40,509 - logger_file -INFO - ScenarioCreate new user account in Test Environment PASSED
+2021-10-21 09:31:48,416 - logger_file -INFO - ScenarioCreate new user account in Test Environment Started
+2021-10-21 09:31:55,692 - logger_file -INFO - Expected Title is much with Actual Title
+2021-10-21 09:31:55,748 - logger_file -INFO - User Able Click On MyAccount
+2021-10-21 09:31:57,332 - logger_file -INFO - User clocked on Register
+2021-10-21 09:31:58,169 - logger_file -INFO - user enter personal information[{firstName=alex, lastName=conor, email=alex13@gmail.com, telephone=2021011122, password=WrongPass, passwordConfirm=WrongPass, subscribe=yes}]
+2021-10-21 09:31:58,490 - logger_file -INFO - user clicked on privacy policy checkbox
+2021-10-21 09:31:59,043 - logger_file -INFO - user cliked on continue button
+2021-10-21 09:32:29,111 - logger_file -INFO - ScenarioCreate new user account in Test Environment FAILED
+2021-10-21 09:35:01,550 - logger_file -INFO - ScenarioTest Case Started
+2021-10-21 09:35:08,559 - logger_file -INFO - Expected Title is much with Actual Title
+2021-10-21 09:35:15,499 - logger_file -INFO - ScenarioTest Case PASSED
+2021-10-21 09:35:15,727 - logger_file -INFO - ScenarioRetail website Login test Started
+2021-10-21 09:35:18,447 - logger_file -INFO - Expected Title is much with Actual Title
+2021-10-21 09:35:18,492 - logger_file -INFO - User Able Click On MyAccount
+2021-10-21 09:35:20,947 - logger_file -INFO - User Able Click on Login Option
+2021-10-21 09:35:21,080 - logger_file -INFO - User Enter eagles@tekschool.usAnd Passwordeagles
+2021-10-21 09:35:23,205 - logger_file -INFO - User be able click on Login button
+2021-10-21 09:35:23,236 - logger_file -INFO - User sould login in to MyAccount dashboard
+2021-10-21 09:35:23,356 - logger_file -INFO - ScenarioRetail website Login test PASSED
+2021-10-22 21:14:14,434 - logger_file -INFO - Scenariodrop down testing Started
+2021-10-22 21:14:17,753 - logger_file -INFO - Scenariodrop down testing UNDEFINED
+2021-10-22 22:06:42,736 - logger_file -INFO - Scenariodrop down testing Started
+2021-10-22 22:07:19,114 - logger_file -INFO - Scenariodrop down testing FAILED
+2021-10-22 22:08:04,571 - logger_file -INFO - Scenariodrop down testing Started
+2021-10-22 22:08:38,715 - logger_file -INFO - Scenariodrop down testing FAILED
+2021-10-22 22:11:48,698 - logger_file -INFO - Scenariodrop down testing Started
+2021-10-22 22:12:23,622 - logger_file -INFO - Scenariodrop down testing FAILED
+2021-10-22 22:14:21,590 - logger_file -INFO - Scenariodrop down testing Started
+2021-10-22 22:14:55,248 - logger_file -INFO - Scenariodrop down testing FAILED
+2021-10-22 22:20:51,310 - logger_file -INFO - Scenariodrop down testing Started
+2021-10-22 22:21:04,515 - logger_file -INFO - Scenariodrop down testing PASSED
+2021-10-22 22:31:12,469 - logger_file -INFO - Scenariodrop down testing Started
+2021-10-22 22:31:15,548 - logger_file -INFO - user clicked on desktop munue
+2021-10-22 22:31:17,865 - logger_file -INFO - user clicked on all show all desktops
+2021-10-22 22:31:18,661 - logger_file -INFO - user lick on sort by drop down list
+2021-10-22 22:31:19,207 - logger_file -INFO - user seleced (Name A - Z) sort list
+2021-10-22 22:31:19,440 - logger_file -INFO - Scenariodrop down testing PASSED
+2021-10-22 22:39:26,549 - logger_file -INFO - Scenariodrop down testing Started
+2021-10-22 22:39:39,183 - logger_file -INFO - user clicked on desktop munue
+2021-10-22 22:39:39,801 - logger_file -INFO - user clicked on all show all desktops
+2021-10-22 22:39:40,662 - logger_file -INFO - user lick on sort by drop down list
+2021-10-22 22:39:41,248 - logger_file -INFO - user seleced (Name A - Z) sort list
+2021-10-22 22:39:41,472 - logger_file -INFO - Scenariodrop down testing PASSED
+2021-10-22 22:42:08,775 - logger_file -INFO - Scenariodrop down testing Started
+2021-10-22 22:42:12,539 - logger_file -INFO - user clicked on desktop munue
+2021-10-22 22:42:13,480 - logger_file -INFO - user clicked on all show all desktops
+2021-10-22 22:42:14,280 - logger_file -INFO - user lick on sort by drop down list
+2021-10-22 22:42:14,764 - logger_file -INFO - user seleced (Name A - Z) sort list
+2021-10-22 22:42:14,989 - logger_file -INFO - Scenariodrop down testing PASSED

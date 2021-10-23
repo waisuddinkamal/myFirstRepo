@@ -1,6 +1,6 @@
 Feature: Test Register Account
 
-@somkeTest
+
   Scenario: Retail website register test
     Given user click on Myaccount
     When user click on Register

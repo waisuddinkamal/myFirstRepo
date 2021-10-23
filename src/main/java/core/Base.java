@@ -29,6 +29,7 @@ public class Base {
 	 * We create a constructor here to initialize the variable values from
 	 * properties file
 	 */
+	
 	public Base() {
 		try {
 			// we create BufferedReader class object to read values of properties file

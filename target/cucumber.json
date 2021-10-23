@@ -1,13 +1,13 @@
 [
   {
-    "line": 1,
+    "line": 2,
     "elements": [
       {
-        "start_timestamp": "2021-10-20T04:43:36.425Z",
+        "start_timestamp": "2021-10-23T05:42:08.590Z",
         "before": [
           {
             "result": {
-              "duration": 2101555000,
+              "duration": 3704729700,
               "status": "passed"
             },
             "match": {
@@ -16,13 +16,13 @@
           }
         ],
         "line": 5,
-        "name": "Create new user account in Test Environment",
+        "name": "drop down testing",
         "description": "",
-        "id": "register-new-user;create-new-user-account-in-test-environment",
+        "id": "tek-school-retail-drop-down-test;drop-down-testing",
         "after": [
           {
             "result": {
-              "duration": 156403800,
+              "duration": 296775700,
               "status": "passed"
             },
             "match": {
@@ -35,131 +35,77 @@
         "steps": [
           {
             "result": {
-              "duration": 27455900,
+              "duration": 54860000,
               "status": "passed"
             },
             "line": 6,
-            "name": "user is on Retail website",
+            "name": "user on retail website",
             "match": {
-              "location": "stepDefinitions.LoginStepDef.user_is_on_Retail_website()"
+              "location": "stepDefinitions.DropDownStepDef.user_on_retail_website()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 52032500,
+              "duration": 633913300,
               "status": "passed"
             },
             "line": 7,
-            "name": "user click on Myaccount",
+            "name": "user click on desktop menue",
             "match": {
-              "location": "stepDefinitions.LoginStepDef.user_click_on_Myaccount()"
+              "location": "stepDefinitions.DropDownStepDef.user_click_on_desktop_menue()"
             },
-            "keyword": "When "
+            "keyword": "And "
           },
           {
             "result": {
-              "duration": 764993600,
+              "duration": 767206900,
               "status": "passed"
             },
             "line": 8,
-            "name": "user click on Register",
+            "name": "user click on All show all desktops",
             "match": {
-              "location": "stepDefinitions.RegisterStepDefinition.user_click_on_register()"
+              "location": "stepDefinitions.DropDownStepDef.user_click_on_all_show_all_desktops()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 498937400,
+              "duration": 751961600,
               "status": "passed"
             },
             "line": 9,
-            "name": "user fill registration form with below information",
+            "name": "user click on sort by drop down list",
             "match": {
-              "location": "stepDefinitions.RegisterStepDefinition.user_fill_registration_form_with_below_information(io.cucumber.datatable.DataTable)"
-            },
-            "rows": [
-              {
-                "cells": [
-                  "firstName",
-                  "lastName",
-                  "email",
-                  "telephone",
-                  "password",
-                  "passwordConfirm",
-                  "subscribe"
-                ]
-              },
-              {
-                "cells": [
-                  "alex",
-                  "conor",
-                  "alex121212@gmail.com",
-                  "2021011122",
-                  "WrongPass",
-                  "WrongPass",
-                  "yes"
-                ]
-              }
-            ],
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 79992800,
-              "status": "passed"
-            },
-            "line": 12,
-            "name": "user agree to privacy and policy",
-            "match": {
-              "location": "stepDefinitions.RegisterStepDefinition.user_agree_to_privacy_and_policy()"
+              "location": "stepDefinitions.DropDownStepDef.user_click_on_sort_by_drop_down_list()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 354467800,
+              "duration": 390633000,
               "status": "passed"
             },
-            "line": 13,
-            "name": "user click on continue button",
+            "line": 10,
+            "name": "user select one of drop down options",
             "match": {
-              "location": "stepDefinitions.RegisterStepDefinition.user_click_on_continue_button()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 158836700,
-              "status": "passed"
-            },
-            "line": 14,
-            "name": "user should see successful message \u0027Your Account Has Been Created!\u0027",
-            "match": {
-              "arguments": [
-                {
-                  "val": "\u0027Your Account Has Been Created!\u0027",
-                  "offset": 35
-                }
-              ],
-              "location": "stepDefinitions.RegisterStepDefinition.user_should_see_successful_message(java.lang.String)"
+              "location": "stepDefinitions.DropDownStepDef.user_select_one_of_drop_down_options()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@RegisterTest"
+            "name": "@EndToEnd"
           }
         ]
       }
     ],
-    "name": "Register new user",
+    "name": "tek school retail drop down test",
     "description": "",
-    "id": "register-new-user",
+    "id": "tek-school-retail-drop-down-test",
     "keyword": "Feature",
-    "uri": "classpath:features/retailHome.feature",
+    "uri": "classpath:features/dropDwon.feature",
     "tags": []
   }
 ]
