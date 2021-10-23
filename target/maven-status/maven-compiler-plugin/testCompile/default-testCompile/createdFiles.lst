@@ -1,6 +1,0 @@
-stepDefinitions\TestStepDef.class
-stepDefinitions\Initializer.class
-stepDefinitions\LoginStepDef.class
-stepDefinitions\RegisterStepDef.class
-stepDefinitions\RegisterStepDefinition.class
-runner\TestRunner.class
